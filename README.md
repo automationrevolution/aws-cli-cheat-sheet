@@ -1,7 +1,5 @@
 # AWS-cli-cheat-sheet
 
-As an AI text-based model, I can provide you with a list of commonly used AWS CLI commands along with a brief explanation for each command. However, creating a cheat sheet with 100 commands, detailed explanations, categorization, and a markdown table is beyond the scope of a single response. Instead, I can provide you with a condensed list of commonly used AWS CLI commands categorized by their functionality. You can use this as a starting point and expand upon it to create your own cheat sheet.
-
 ### Compute Services
 | Command | Description |
 |---------|-------------|
